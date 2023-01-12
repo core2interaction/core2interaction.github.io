@@ -13,7 +13,6 @@ order: 4
 
 ## Text Editors
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [Atom]()
 - [Sublime Text](https://www.sublimetext.com/)
 
 ## Typography
@@ -22,3 +21,4 @@ order: 4
 
 ## Others
 - [Are.na](https://www.are.na/)
+- [BuiltWith](https://builtwith.com/)
